@@ -10,7 +10,7 @@ We built this page to help you easily find all relevant content and resources re
 * [Technical Sessions](http://aka.ms/videohub/DiscoverandRespond)
 
 ## Playbooks and Guides
-* [Deployment Acceleration Guide](../../dag/aed-audit)
+* [Become a Microsoft 365 Advanced eDiscovery Ninja](https://aka.ms/ediscoveryninja)
 
 ## Webinars
 * [Discovery & Response (D&R) Webinars](../../webinars#discovery--response)
